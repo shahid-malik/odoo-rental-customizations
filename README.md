@@ -1,1 +1,1 @@
-# odoo-rental-customizations
+# sale_renting
